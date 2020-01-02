@@ -7,6 +7,6 @@ public class Test {
         SongsOfThe90s songs90s = new SongsOfThe90s();
 
         DiscJockey madMike = new DiscJockey(songs70s, songs80s, songs90s);
-        madMike.showTheSongs2();
+        madMike.showTheSongs();
     }
 }

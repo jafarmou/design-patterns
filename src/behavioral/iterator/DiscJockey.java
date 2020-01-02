@@ -13,7 +13,7 @@ public class DiscJockey {
         iter90s = newSongs90s;
     }
 
-    public void showTheSongs2() {
+    public void showTheSongs() {
         Iterator songs70s = iter70s.createIterator();
         Iterator songs80s = iter80s.createIterator();
         Iterator songs90s = iter90s.createIterator();
